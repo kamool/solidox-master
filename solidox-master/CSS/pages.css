@@ -1,3 +1,59 @@
-body {
 
+#left_column {
+	float:left;
+	width:480px;
 }
+
+#middle_column {
+	float:left;
+	width:240px;
+	height:500px;
+	background: url(http://lorempixel.com/output/city-h-c-240-500-7.jpg) no-repeat;
+}
+
+#right_column {
+	float:left;
+	width:240px;
+}
+
+.tile {
+	height:240px;
+	width:240px;
+}
+
+.main_h1 {
+	width:480px;
+	background:white;
+}
+
+.water, .coffee {
+	float:left;
+}
+
+.water {
+	background:green;
+}
+
+.coffee {
+	background:grey;
+}
+
+.bottom_link {
+	width:480px;
+	background:blue;
+}
+
+.cola {
+	background:red;
+}
+
+.slogan {
+	background:gold;
+}
+
+.fruit {
+	background:yellow;
+}
+
+
+
